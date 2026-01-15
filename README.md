@@ -31,3 +31,7 @@ The "Small Data" Challenge
 The divergence between training and validation performance highlights a classic **data bottleneck**. While the 3D pipeline functions correctly, the dataset size (140 samples) is insufficient for a deep 3D CNN to generalize robustly against unseen anatomical variations. To achieve clinical viability, this architecture would require a dataset order of magnitude larger (1k-10k scans).
 
 # Visualizations
+<img width="389" height="411" alt="Slice" src="https://github.com/user-attachments/assets/ec5083b0-6902-4867-a32a-0745059bd7c3" />
+<img width="366" height="103" alt="Performence" src="https://github.com/user-attachments/assets/0e724ca3-834d-4132-aba1-c4f2c979e6db" />
+<img width="1233" height="470" alt="Graph" src="https://github.com/user-attachments/assets/a1c2c4d1-bf12-427d-8243-b7fa6c5c4b7b" />
+
